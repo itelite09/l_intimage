@@ -6,6 +6,6 @@
 4. Check Laravel's Documentation for setting up the database configuration
 5. Run `php artisan migrate`
 6. Run `php artisan serve`
-7. Enjoy!
+7. Enjoy
 
 
